@@ -1,4 +1,4 @@
-let conteo = 1
+let conteo = 0
 
 
 export const Carrito = () => (
