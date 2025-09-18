@@ -17,7 +17,11 @@ li{
 }
 
 
-
+h3 {
+  font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  color:brown
+  ;
+}
 
 .imagenBarra { 
   max-width: 30px  ;
