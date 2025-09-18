@@ -1,0 +1,31 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+
+ul{
+  display: flex;
+  gap: 10px;
+}
+
+
+li{
+  display: inline;
+}
+
+
+
+
+.imagenBarra { 
+  max-width: 30px  ;
+
+}
+
+
+
+.barra {
+  list-style: none; 
+}
